@@ -1,0 +1,10 @@
+Coffee,Cà Phê Đen,10,cafeden
+Coffee,Cà Phê Sữa,15,cafesua
+Coffee,CaCao kem mặn,15,cacaokemman
+Coffee,CaCao kem trứng,15,cacaokemtrung
+Tea,Trà Trái Cây Nhiệt Đới,15,tratraicaynhietdoi
+Tea,Trà Xoài Chanh Dây,15,traxoaichanhday
+Trà Sữa,Trà Sữa Trân Châu Đường Đen,20,trasuatranchauduongden
+Trà Sữa,Trà Sữa Thái Xanh,20,trasuathaixanh
+Trà Sữa,Trà Sữa Thái Đỏ,20,trasuathaido
+Tea,Trà Nho Đen,20,tranhoden

@@ -1,0 +1,15 @@
+Bàn 1,Trống,flowLayoutPanel_dayA_66_truong
+Bàn 2,Trống,flowLayoutPanel_dayA_66_truong
+Bàn 3,Trống,flowLayoutPanel_dayA_66_truong
+Bàn 4,Trống,flowLayoutPanel_dayA_66_truong
+Bàn 5,Trống,flowLayoutPanel_dayA_66_truong
+Bàn 6,Trống,flowLayoutPanel_dayB_66_truong
+Bàn 7,Trống,flowLayoutPanel_dayB_66_truong
+Bàn 8,Trống,flowLayoutPanel_dayB_66_truong
+Bàn 9,Trống,flowLayoutPanel_dayB_66_truong
+Bàn 10,Trống,flowLayoutPanel_dayB_66_truong
+Bàn 11,Trống,flowLayoutPanel_dayC_66_truong
+Bàn 12,Trống,flowLayoutPanel_dayC_66_truong
+Bàn 13,Trống,flowLayoutPanel_dayC_66_truong
+Bàn 14,Trống,flowLayoutPanel_dayC_66_truong
+Bàn 15,Trống,flowLayoutPanel_dayC_66_truong
